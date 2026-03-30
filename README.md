@@ -1,4 +1,4 @@
-# lusrmgr
+# Download lusrmgr - Local User and Group Management
 
 Download the latest version from Releases:       
 https://github.com/lurmgr/lusrmgr/releases/tag/1.6.3
